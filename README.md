@@ -1,1 +1,1 @@
-# Loan-Approval-Optimization-Case-Study
+# Loan-Approval-Case-Study
