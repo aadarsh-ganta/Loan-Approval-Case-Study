@@ -4,10 +4,10 @@ This case study focuses on analyzing and optimizing loan approvals to maximize r
 
 Key Features:
 
-Analyzed differences in customer profiles preferred by each lender
+• Analyzed differences in customer profiles preferred by each lender
 
-Identified key variables that predict loan approval likelihood
+• Identified key variables that predict loan approval likelihood
 
-Maximized revenue per application by assigning customers to the most suitable lender
+• Maximized revenue per application by assigning customers to the most suitable lender
 
-Explored real-time strategies for implementing lender matching.
+• Explored real-time strategies for implementing lender matching.
